@@ -30,3 +30,4 @@ You must have Node.js and npm installed on your machine. This project was built 
 ## Recommended IDE
 
 - VS-Code 
+
